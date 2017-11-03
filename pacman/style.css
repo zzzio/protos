@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
 .realm {
  background-color: red;
  border: 2px solid black;
@@ -5,4 +7,20 @@
  height: 400px;
  width: 600px;
  margin: 0 auto;
+}
+
+#pacman {
+ width: 30px;
+ height: 30px;
+ position: relative;
+ left: 20px;
+ top: 5px;
+}
+
+h1 {
+ text-align: center;
+ color: white;
+ font-family: 'Lato', sans-serif;
+ position: relative;
+ top: 100px;
 }
